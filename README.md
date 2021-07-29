@@ -1,4 +1,4 @@
- 🤖️  Rede Neural Artificial usando modelo de aprendizagem kononen.
+## Rede Neural Artificial usando modelo de aprendizagem kononen.
 
 
 
