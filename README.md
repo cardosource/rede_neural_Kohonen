@@ -12,7 +12,14 @@ Essa RNA usando o modelo de aprendizagem competitiva, neuronios competem entre s
 
 ![Kohonen]( https://upload.wikimedia.org/wikipedia/commons/3/37/StepTrainingSOM.gif)  
 
+
+font:
+
+
+[towardsdatascience](https://towardsdatascience.com/kohonen-self-organizing-maps-a29040d688da)
     
+[neuronio-br](https://medium.com/neuronio-br/descobrindo-som-uma-rede-neural-com-aprendizado-n%C3%A3o-supervisionado-f22bc1e55eca)
+
 ![GitHub](https://img.shields.io/badge/C-gcc-blue)
 ![GitHub](https://img.shields.io/badge/licence-GPL%203.0-GREE)
 
