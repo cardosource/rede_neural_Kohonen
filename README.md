@@ -18,7 +18,11 @@ font:
 
 [towardsdatascience](https://towardsdatascience.com/kohonen-self-organizing-maps-a29040d688da)
     
-[neuronio-br](https://medium.com/neuronio-br/descobrindo-som-uma-rede-neural-com-aprendizado-n%C3%A3o-supervisionado-f22bc1e55eca)
+[@gisely.alves](https://medium.com/neuronio-br/descobrindo-som-uma-rede-neural-com-aprendizado-n%C3%A3o-supervisionado-f22bc1e55eca)
+
+[ufop](http://www2.decom.ufop.br/imobilis/self-organizing-maps/)
+
+
 
 ![GitHub](https://img.shields.io/badge/C-gcc-blue)
 ![GitHub](https://img.shields.io/badge/licence-GPL%203.0-GREE)
