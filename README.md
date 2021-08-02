@@ -28,5 +28,3 @@ font:
 ![GitHub](https://img.shields.io/badge/licence-GPL%203.0-GREE)
 
 
-
-GPL-3.0 License
