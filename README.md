@@ -24,8 +24,9 @@ font:
 
 
 
-![GitHub](https://img.shields.io/badge/C-gcc-blue)
+![](https://img.shields.io/badge/c-gcc-informational?style=flat&logo=c&logoColor=white&color=blue) 
 ![GitHub](https://img.shields.io/badge/licence-GPL%203.0-GREE)
 
 
 
+GPL-3.0 License
