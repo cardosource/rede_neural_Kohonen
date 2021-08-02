@@ -15,11 +15,8 @@ Essa RNA usando o modelo de aprendizagem competitiva, neuronios competem entre s
 
 font:
 
-
-[towardsdatascience](https://towardsdatascience.com/kohonen-self-organizing-maps-a29040d688da)
-    
-[@gisely.alves](https://medium.com/neuronio-br/descobrindo-som-uma-rede-neural-com-aprendizado-n%C3%A3o-supervisionado-f22bc1e55eca)
-
+[towardsdatascience](https://towardsdatascience.com/kohonen-self-organizing-maps-a29040d688da)               
+[@gisely.alves](https://medium.com/neuronio-br/descobrindo-som-uma-rede-neural-com-aprendizado-n%C3%A3o-supervisionado-f22bc1e55eca)         
 [ufop](http://www2.decom.ufop.br/imobilis/self-organizing-maps/)
 
 
